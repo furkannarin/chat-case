@@ -1,1 +1,14 @@
-# chat-case
+# Chat-Case
+
+## Installation
+- ##### Install dependencies
+
+```
+npm i
+```
+
+- ##### Start Expo
+
+```
+npm start
+```
