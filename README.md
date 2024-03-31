@@ -1,5 +1,3 @@
-# Chat-Case
-
 ## Installation
 - ##### Install dependencies
 
